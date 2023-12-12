@@ -1,4 +1,5 @@
 Breast Cancer Diagnosis
+
 About this project
 This project uses historical datas from the breast cancer images to build a model to predict whether the cell nucleus is malignant or benign. The type of learning is supervised learning and the type of task is binary class classification.
 
