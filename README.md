@@ -9,6 +9,7 @@ Data Source
 Breast Cancer Wisconsin (Diagnostic) data set. (2016, September 25). Kaggle. https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 Data Cleaning
+
 1: Check the missing value
 
 2: Check for imbalance data using a histogram plot The dataset has around 210 malignant cases and 350 benign cases.
